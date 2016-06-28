@@ -1,0 +1,2 @@
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041Content\obj\x86\Debug\_3041Content.contentprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\3041\3041\_3041Content\obj\x86\Debug\_3041Content.contentprojResolveAssemblyReference.cache

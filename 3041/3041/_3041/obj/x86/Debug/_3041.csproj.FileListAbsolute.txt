@@ -1,0 +1,98 @@
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\obj\x86\Debug\_3041.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\bullet1.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\bullet2.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\bullet3.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\bullet4.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\MainMenu.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\play_button.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\ship1.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\ship2.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\ship3.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\ship4.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\ship5.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\space1.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\spaceship.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\_3041.exe
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\_3041.pdb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\obj\x86\Debug\_3041.exe
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\obj\x86\Debug\_3041.pdb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\heartempty.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\heartfull.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\healthgreen.xnb
+c:\users\felipe\documents\visual studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\healthred.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\bullet1.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\bullet2.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\bullet3.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\bullet4.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\play_button.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\ship1.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\ship2.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\ship3.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\ship4.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\ship5.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\space1.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\heartempty.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\heartfull.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\healthgreen.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\healthred.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\_3041.exe
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\_3041.pdb
+C:\Users\Felipe\Desktop\3041\3041\_3041\obj\x86\Debug\_3041.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\3041\3041\_3041\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Felipe\Desktop\3041\3041\_3041\obj\x86\Debug\_3041.exe
+C:\Users\Felipe\Desktop\3041\3041\_3041\obj\x86\Debug\_3041.pdb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\healthyellow.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\atari_boom.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\asteroid1.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\asteroid2.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\Afterburner.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\Afterburner.wma
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\Bala1.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\explosion1.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\Laser_Shoot_Player.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\hit.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\asteroid3.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\start.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\asteroid3.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\healthyellow.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\asteroid1.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\asteroid2.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\atari_boom.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\Bala1.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\explosion1.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\Laser_Shoot_Player.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\hit.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\start.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\Afterburner.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\Afterburner.wma
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\enemyB2.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\enemyB3.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\bullet5.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\enemyB4.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\enemyB5.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\enemyB6.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\arcadeclasic.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\explosion_sheet1.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\explosion_sheet2.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\explosion2.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\bossSong.xnb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\3041\3041\_3041\bin\x86\Debug\Content\bossSong.wma
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\enemyB2.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\enemyB3.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\bullet5.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\enemyB4.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\enemyB5.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\enemyB6.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\explosion_sheet1.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\explosion_sheet2.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\explosion2.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\bossSong.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\arcadeclasic.xnb
+C:\Users\Felipe\Desktop\3041\3041\_3041\bin\x86\Debug\Content\bossSong.wma
